@@ -1,2 +1,2 @@
 # EDTformer
-Visual Place Recognition 
+The code and models will be publicly available soon!
