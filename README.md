@@ -44,3 +44,14 @@ Parts of this repo are inspired by the following repositories:
 [Visual Geo-localization Benchmark](https://github.com/gmberton/deep-visual-geo-localization-benchmark)
 
 [GSV-Cities](https://github.com/amaralibey/gsv-cities)
+
+## Citation
+If you find this repo useful for your research, please consider leaving a star⭐️ and citing the paper
+```
+@ARTICLE{EDTformer,
+  author={Jin, Tong and Lu, Feng and Hu, Shuyu and Yuan, Chun and Liu, Yunpeng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={EDTformer: An Efficient Decoder Transformer for Visual Place Recognition}, 
+  year={2025},
+  }
+```
