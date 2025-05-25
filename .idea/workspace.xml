@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60e78182-ea27-4132-9639-51fae1376abe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SACA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregators/boq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregators/convap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregators/cosplace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregators/gem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregators/mixvpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregators/netvlad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregators/salad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backbone/LadderAdapter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backbone/MYATTENTION.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backbone/MultiConvAdapter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backbone/PixelDecoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backbone/vision_transformer1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplified_decoder_block.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backbone/dinov2/attention.py" beforeDir="false" afterPath="$PROJECT_DIR$/backbone/dinov2/attention.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backbone/dinov2/block.py" beforeDir="false" afterPath="$PROJECT_DIR$/backbone/dinov2/block.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backbone/vision_transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/backbone/vision_transformer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataloaders/GSVCities.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataloaders/GSVCities.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataloaders/train/GSVCitiesDataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataloaders/train/GSVCitiesDataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_ws.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets_ws.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/architecture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
