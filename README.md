@@ -33,7 +33,7 @@ To evaluate the trained model:
 python3 eval.py --eval_datasets_folder=/path/to/your/datasets_vg/datasets --eval_dataset_name=msls --resume=/path/to/trained/model/your_model.pth
 ```
 ## Trained Model
-You can directly download the trained model [HERE](https://drive.google.com/file/d/1T7qmq1NtA8NgN8uLrrgsckxMLX_nWDJb/view?usp=sharing)
+You can directly download the trained model [HERE](https://drive.google.com/file/d/1T7qmq1NtA8NgN8uLrrgsckxMLX_nWDJb/view?usp=sharing).
 
 ## Acknowledgements
 
@@ -53,5 +53,5 @@ If you find this repo useful for your research, please consider leaving a starâ­
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={EDTformer: An Efficient Decoder Transformer for Visual Place Recognition}, 
   year={2025},
-  }
+  doi={10.1109/TCSVT.2025.3559084}}}
 ```
