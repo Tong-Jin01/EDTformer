@@ -3,7 +3,7 @@ dependencies = ['torch']
 import torch
 import network
 
-def trained_model():
+def EDTformer():
     model = network.VPRNet()
     model = torch.nn.DataParallel(model)
     model.load_state_dict(
